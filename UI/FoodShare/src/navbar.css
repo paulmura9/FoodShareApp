@@ -1,0 +1,10 @@
+ul {
+    display: flex;
+    li{
+        list-style-type: none;
+        flex:1 1 0px;
+    }
+    a.active{
+        color:red;
+    }
+}

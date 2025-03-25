@@ -1,0 +1,18 @@
+.donate {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    
+    .card {
+        width: calc(50% - 20px);
+    }
+    
+    .card-body {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+    form {
+        grid-column: 1 / 3;
+    }
+}

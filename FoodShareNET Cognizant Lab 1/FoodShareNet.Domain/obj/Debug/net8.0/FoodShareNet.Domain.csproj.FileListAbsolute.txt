@@ -1,0 +1,22 @@
+C:\Users\paulm\Desktop\Cognizant Liga AC LABS 2024\FoodShareNET Cognizant LAB 1\FoodShareNet.Domain\bin\Debug\net8.0\FoodShareNet.Domain.deps.json
+C:\Users\paulm\Desktop\Cognizant Liga AC LABS 2024\FoodShareNET Cognizant LAB 1\FoodShareNet.Domain\bin\Debug\net8.0\FoodShareNet.Domain.dll
+C:\Users\paulm\Desktop\Cognizant Liga AC LABS 2024\FoodShareNET Cognizant LAB 1\FoodShareNet.Domain\bin\Debug\net8.0\FoodShareNet.Domain.pdb
+C:\Users\paulm\Desktop\Cognizant Liga AC LABS 2024\FoodShareNET Cognizant LAB 1\FoodShareNet.Domain\obj\Debug\net8.0\FoodShareNet.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulm\Desktop\Cognizant Liga AC LABS 2024\FoodShareNET Cognizant LAB 1\FoodShareNet.Domain\obj\Debug\net8.0\FoodShareNet.Domain.AssemblyInfoInputs.cache
+C:\Users\paulm\Desktop\Cognizant Liga AC LABS 2024\FoodShareNET Cognizant LAB 1\FoodShareNet.Domain\obj\Debug\net8.0\FoodShareNet.Domain.AssemblyInfo.cs
+C:\Users\paulm\Desktop\Cognizant Liga AC LABS 2024\FoodShareNET Cognizant LAB 1\FoodShareNet.Domain\obj\Debug\net8.0\FoodShareNet.Domain.csproj.CoreCompileInputs.cache
+C:\Users\paulm\Desktop\Cognizant Liga AC LABS 2024\FoodShareNET Cognizant LAB 1\FoodShareNet.Domain\obj\Debug\net8.0\FoodShareNet.Domain.dll
+C:\Users\paulm\Desktop\Cognizant Liga AC LABS 2024\FoodShareNET Cognizant LAB 1\FoodShareNet.Domain\obj\Debug\net8.0\refint\FoodShareNet.Domain.dll
+C:\Users\paulm\Desktop\Cognizant Liga AC LABS 2024\FoodShareNET Cognizant LAB 1\FoodShareNet.Domain\obj\Debug\net8.0\FoodShareNet.Domain.pdb
+C:\Users\paulm\Desktop\Cognizant Liga AC LABS 2024\FoodShareNET Cognizant LAB 1\FoodShareNet.Domain\obj\Debug\net8.0\ref\FoodShareNet.Domain.dll
+C:\Users\paulm\Desktop\Cognizant Liga AC LABS 2024\FoodShareNET Cognizant\FoodShareNet.Domain\bin\Debug\net8.0\FoodShareNet.Domain.deps.json
+C:\Users\paulm\Desktop\Cognizant Liga AC LABS 2024\FoodShareNET Cognizant\FoodShareNet.Domain\bin\Debug\net8.0\FoodShareNet.Domain.dll
+C:\Users\paulm\Desktop\Cognizant Liga AC LABS 2024\FoodShareNET Cognizant\FoodShareNet.Domain\bin\Debug\net8.0\FoodShareNet.Domain.pdb
+C:\Users\paulm\Desktop\Cognizant Liga AC LABS 2024\FoodShareNET Cognizant\FoodShareNet.Domain\obj\Debug\net8.0\FoodShareNet.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulm\Desktop\Cognizant Liga AC LABS 2024\FoodShareNET Cognizant\FoodShareNet.Domain\obj\Debug\net8.0\FoodShareNet.Domain.AssemblyInfoInputs.cache
+C:\Users\paulm\Desktop\Cognizant Liga AC LABS 2024\FoodShareNET Cognizant\FoodShareNet.Domain\obj\Debug\net8.0\FoodShareNet.Domain.AssemblyInfo.cs
+C:\Users\paulm\Desktop\Cognizant Liga AC LABS 2024\FoodShareNET Cognizant\FoodShareNet.Domain\obj\Debug\net8.0\FoodShareNet.Domain.csproj.CoreCompileInputs.cache
+C:\Users\paulm\Desktop\Cognizant Liga AC LABS 2024\FoodShareNET Cognizant\FoodShareNet.Domain\obj\Debug\net8.0\FoodShareNet.Domain.dll
+C:\Users\paulm\Desktop\Cognizant Liga AC LABS 2024\FoodShareNET Cognizant\FoodShareNet.Domain\obj\Debug\net8.0\refint\FoodShareNet.Domain.dll
+C:\Users\paulm\Desktop\Cognizant Liga AC LABS 2024\FoodShareNET Cognizant\FoodShareNet.Domain\obj\Debug\net8.0\FoodShareNet.Domain.pdb
+C:\Users\paulm\Desktop\Cognizant Liga AC LABS 2024\FoodShareNET Cognizant\FoodShareNet.Domain\obj\Debug\net8.0\ref\FoodShareNet.Domain.dll

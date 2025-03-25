@@ -1,0 +1,21 @@
+form {
+    padding: 8px 10px 8px 10px;
+    display: flex;
+    flex-direction: column;
+  
+    label {
+      padding: 8px 0 2px 0;
+    }
+  
+    input {
+      height: 20px;
+      line-height: 20px;
+      padding: 5px 10px;
+    }
+  
+    button[type="submit"] {
+      margin-top: 15px;
+      width: 120px;
+      margin-left: auto;
+    }
+  }

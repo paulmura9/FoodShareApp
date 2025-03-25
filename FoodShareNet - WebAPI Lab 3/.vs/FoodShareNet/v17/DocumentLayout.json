@@ -1,0 +1,565 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{712773BD-C151-4A7A-8811-C658D61F131D}|FoodShareNet\\FoodShareNetAPI.csproj|c:\\users\\paulm\\desktop\\cognizant liga ac labs 2024\\foodsharenet\\foodsharenet\\dto\\donation\\donationdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712773BD-C151-4A7A-8811-C658D61F131D}|FoodShareNet\\FoodShareNetAPI.csproj|solutionrelative:foodsharenet\\dto\\donation\\donationdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE0877E-7008-4A2C-9606-AE076829A585}|FoodShareNet.Application\\FoodShareNet.Application.csproj|C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\foodsharenet.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE0877E-7008-4A2C-9606-AE076829A585}|FoodShareNet.Application\\FoodShareNet.Application.csproj|solutionrelative:foodsharenet.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712773BD-C151-4A7A-8811-C658D61F131D}|FoodShareNet\\FoodShareNetAPI.csproj|C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\foodsharenet\\controllers\\donorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712773BD-C151-4A7A-8811-C658D61F131D}|FoodShareNet\\FoodShareNetAPI.csproj|solutionrelative:foodsharenet\\controllers\\donorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712773BD-C151-4A7A-8811-C658D61F131D}|FoodShareNet\\FoodShareNetAPI.csproj|C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\foodsharenet\\controllers\\beneficiarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712773BD-C151-4A7A-8811-C658D61F131D}|FoodShareNet\\FoodShareNetAPI.csproj|solutionrelative:foodsharenet\\controllers\\beneficiarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712773BD-C151-4A7A-8811-C658D61F131D}|FoodShareNet\\FoodShareNetAPI.csproj|C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\foodsharenet\\controllers\\donationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712773BD-C151-4A7A-8811-C658D61F131D}|FoodShareNet\\FoodShareNetAPI.csproj|solutionrelative:foodsharenet\\controllers\\donationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712773BD-C151-4A7A-8811-C658D61F131D}|FoodShareNet\\FoodShareNetAPI.csproj|C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\foodsharenet\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712773BD-C151-4A7A-8811-C658D61F131D}|FoodShareNet\\FoodShareNetAPI.csproj|solutionrelative:foodsharenet\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712773BD-C151-4A7A-8811-C658D61F131D}|FoodShareNet\\FoodShareNetAPI.csproj|C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\foodsharenet\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712773BD-C151-4A7A-8811-C658D61F131D}|FoodShareNet\\FoodShareNetAPI.csproj|solutionrelative:foodsharenet\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712773BD-C151-4A7A-8811-C658D61F131D}|FoodShareNet\\FoodShareNetAPI.csproj|C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\foodsharenet\\controllers\\couriercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712773BD-C151-4A7A-8811-C658D61F131D}|FoodShareNet\\FoodShareNetAPI.csproj|solutionrelative:foodsharenet\\controllers\\couriercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE0877E-7008-4A2C-9606-AE076829A585}|FoodShareNet.Application\\FoodShareNet.Application.csproj|C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\foodsharenet.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE0877E-7008-4A2C-9606-AE076829A585}|FoodShareNet.Application\\FoodShareNet.Application.csproj|solutionrelative:foodsharenet.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE0877E-7008-4A2C-9606-AE076829A585}|FoodShareNet.Application\\FoodShareNet.Application.csproj|C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\foodsharenet.application\\services\\donorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE0877E-7008-4A2C-9606-AE076829A585}|FoodShareNet.Application\\FoodShareNet.Application.csproj|solutionrelative:foodsharenet.application\\services\\donorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE0877E-7008-4A2C-9606-AE076829A585}|FoodShareNet.Application\\FoodShareNet.Application.csproj|C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\foodsharenet.application\\services\\donationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE0877E-7008-4A2C-9606-AE076829A585}|FoodShareNet.Application\\FoodShareNet.Application.csproj|solutionrelative:foodsharenet.application\\services\\donationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE0877E-7008-4A2C-9606-AE076829A585}|FoodShareNet.Application\\FoodShareNet.Application.csproj|C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\foodsharenet.application\\services\\courierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE0877E-7008-4A2C-9606-AE076829A585}|FoodShareNet.Application\\FoodShareNet.Application.csproj|solutionrelative:foodsharenet.application\\services\\courierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE0877E-7008-4A2C-9606-AE076829A585}|FoodShareNet.Application\\FoodShareNet.Application.csproj|C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\foodsharenet.application\\services\\beneficiaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE0877E-7008-4A2C-9606-AE076829A585}|FoodShareNet.Application\\FoodShareNet.Application.csproj|solutionrelative:foodsharenet.application\\services\\beneficiaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712773BD-C151-4A7A-8811-C658D61F131D}|FoodShareNet\\FoodShareNetAPI.csproj|C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\foodsharenet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{712773BD-C151-4A7A-8811-C658D61F131D}|FoodShareNet\\FoodShareNetAPI.csproj|solutionrelative:foodsharenet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/FoodShareDB/True/SqlTable/dbo.Donations.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8177819A-2F39-4C24-94FF-3E03DA2AC2E3}|FoodShareNet.Domain\\FoodShareNet.Domain.csproj|C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\foodsharenet.domain\\entities\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8177819A-2F39-4C24-94FF-3E03DA2AC2E3}|FoodShareNet.Domain\\FoodShareNet.Domain.csproj|solutionrelative:foodsharenet.domain\\entities\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8177819A-2F39-4C24-94FF-3E03DA2AC2E3}|FoodShareNet.Domain\\FoodShareNet.Domain.csproj|C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\foodsharenet.domain\\entities\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8177819A-2F39-4C24-94FF-3E03DA2AC2E3}|FoodShareNet.Domain\\FoodShareNet.Domain.csproj|solutionrelative:foodsharenet.domain\\entities\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/FoodShareDB/True/SqlTable/dbo.Donors.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712773BD-C151-4A7A-8811-C658D61F131D}|FoodShareNet\\FoodShareNetAPI.csproj|C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\foodsharenet\\dto\\donor\\createdonordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712773BD-C151-4A7A-8811-C658D61F131D}|FoodShareNet\\FoodShareNetAPI.csproj|solutionrelative:foodsharenet\\dto\\donor\\createdonordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712773BD-C151-4A7A-8811-C658D61F131D}|FoodShareNet\\FoodShareNetAPI.csproj|C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\foodsharenet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712773BD-C151-4A7A-8811-C658D61F131D}|FoodShareNet\\FoodShareNetAPI.csproj|solutionrelative:foodsharenet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712773BD-C151-4A7A-8811-C658D61F131D}|FoodShareNet\\FoodShareNetAPI.csproj|C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\foodsharenet\\dto\\donation\\donationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712773BD-C151-4A7A-8811-C658D61F131D}|FoodShareNet\\FoodShareNetAPI.csproj|solutionrelative:foodsharenet\\dto\\donation\\donationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712773BD-C151-4A7A-8811-C658D61F131D}|FoodShareNet\\FoodShareNetAPI.csproj|C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\foodsharenet\\dto\\donation\\createdonationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712773BD-C151-4A7A-8811-C658D61F131D}|FoodShareNet\\FoodShareNetAPI.csproj|solutionrelative:foodsharenet\\dto\\donation\\createdonationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE0877E-7008-4A2C-9606-AE076829A585}|FoodShareNet.Application\\FoodShareNet.Application.csproj|C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\foodsharenet.application\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE0877E-7008-4A2C-9606-AE076829A585}|FoodShareNet.Application\\FoodShareNet.Application.csproj|solutionrelative:foodsharenet.application\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/FoodShareDB/True/SqlTable/dbo.Products.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE0877E-7008-4A2C-9606-AE076829A585}|FoodShareNet.Application\\FoodShareNet.Application.csproj|C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\foodsharenet.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE0877E-7008-4A2C-9606-AE076829A585}|FoodShareNet.Application\\FoodShareNet.Application.csproj|solutionrelative:foodsharenet.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8177819A-2F39-4C24-94FF-3E03DA2AC2E3}|FoodShareNet.Domain\\FoodShareNet.Domain.csproj|C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\foodsharenet.domain\\entities\\beneficiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8177819A-2F39-4C24-94FF-3E03DA2AC2E3}|FoodShareNet.Domain\\FoodShareNet.Domain.csproj|solutionrelative:foodsharenet.domain\\entities\\beneficiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8177819A-2F39-4C24-94FF-3E03DA2AC2E3}|FoodShareNet.Domain\\FoodShareNet.Domain.csproj|C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\foodsharenet.domain\\entities\\donationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8177819A-2F39-4C24-94FF-3E03DA2AC2E3}|FoodShareNet.Domain\\FoodShareNet.Domain.csproj|solutionrelative:foodsharenet.domain\\entities\\donationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8177819A-2F39-4C24-94FF-3E03DA2AC2E3}|FoodShareNet.Domain\\FoodShareNet.Domain.csproj|C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\foodsharenet.domain\\entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8177819A-2F39-4C24-94FF-3E03DA2AC2E3}|FoodShareNet.Domain\\FoodShareNet.Domain.csproj|solutionrelative:foodsharenet.domain\\entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/FoodShareDB/True/SqlTable/dbo.DonationStatuses.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFE0877E-7008-4A2C-9606-AE076829A585}|FoodShareNet.Application\\FoodShareNet.Application.csproj|C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\foodsharenet.application\\interfaces\\icourierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFE0877E-7008-4A2C-9606-AE076829A585}|FoodShareNet.Application\\FoodShareNet.Application.csproj|solutionrelative:foodsharenet.application\\interfaces\\icourierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8177819A-2F39-4C24-94FF-3E03DA2AC2E3}|FoodShareNet.Domain\\FoodShareNet.Domain.csproj|C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\foodsharenet.domain\\enums\\donationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8177819A-2F39-4C24-94FF-3E03DA2AC2E3}|FoodShareNet.Domain\\FoodShareNet.Domain.csproj|solutionrelative:foodsharenet.domain\\enums\\donationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F47C83-51BD-4C48-911D-477CCA069075}|FoodShareNet.Repository\\FoodShareNet.Repository.csproj|C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\foodsharenet.repository\\data\\foodsharenetdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F47C83-51BD-4C48-911D-477CCA069075}|FoodShareNet.Repository\\FoodShareNet.Repository.csproj|solutionrelative:foodsharenet.repository\\data\\foodsharenetdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712773BD-C151-4A7A-8811-C658D61F131D}|FoodShareNet\\FoodShareNetAPI.csproj|C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\foodsharenet\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{712773BD-C151-4A7A-8811-C658D61F131D}|FoodShareNet\\FoodShareNetAPI.csproj|solutionrelative:foodsharenet\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{712773BD-C151-4A7A-8811-C658D61F131D}|FoodShareNet\\FoodShareNetAPI.csproj|C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\foodsharenet\\dto\\order\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{712773BD-C151-4A7A-8811-C658D61F131D}|FoodShareNet\\FoodShareNetAPI.csproj|solutionrelative:foodsharenet\\dto\\order\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F47C83-51BD-4C48-911D-477CCA069075}|FoodShareNet.Repository\\FoodShareNet.Repository.csproj|C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\foodsharenet.repository\\foodsharenet.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B1F47C83-51BD-4C48-911D-477CCA069075}|FoodShareNet.Repository\\FoodShareNet.Repository.csproj|solutionrelative:foodsharenet.repository\\foodsharenet.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CourierController.cs",
+              "DocumentMoniker": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet\\Controllers\\CourierController.cs",
+              "RelativeDocumentMoniker": "FoodShareNet\\Controllers\\CourierController.cs",
+              "ToolTip": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet\\Controllers\\CourierController.cs",
+              "RelativeToolTip": "FoodShareNet\\Controllers\\CourierController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:32:12.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CourierService.cs",
+              "DocumentMoniker": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet.Application\\Services\\CourierService.cs",
+              "RelativeDocumentMoniker": "FoodShareNet.Application\\Services\\CourierService.cs",
+              "ToolTip": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet.Application\\Services\\CourierService.cs",
+              "RelativeToolTip": "FoodShareNet.Application\\Services\\CourierService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:31:10.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BeneficiaryService.cs",
+              "DocumentMoniker": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet.Application\\Services\\BeneficiaryService.cs",
+              "RelativeDocumentMoniker": "FoodShareNet.Application\\Services\\BeneficiaryService.cs",
+              "ToolTip": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet.Application\\Services\\BeneficiaryService.cs",
+              "RelativeToolTip": "FoodShareNet.Application\\Services\\BeneficiaryService.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAwDEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:30:54.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "dbo.Donors [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/FoodShareDB/True/SqlTable/dbo.Donors.sql",
+              "ToolTip": "dbo.Donors [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-09T00:45:04.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DonorService.cs",
+              "DocumentMoniker": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet.Application\\Services\\DonorService.cs",
+              "RelativeDocumentMoniker": "FoodShareNet.Application\\Services\\DonorService.cs",
+              "ToolTip": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet.Application\\Services\\DonorService.cs",
+              "RelativeToolTip": "FoodShareNet.Application\\Services\\DonorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T00:40:45.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DonationService.cs",
+              "DocumentMoniker": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet.Application\\Services\\DonationService.cs",
+              "RelativeDocumentMoniker": "FoodShareNet.Application\\Services\\DonationService.cs",
+              "ToolTip": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet.Application\\Services\\DonationService.cs",
+              "RelativeToolTip": "FoodShareNet.Application\\Services\\DonationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T00:40:12.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateDonorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet\\DTO\\Donor\\CreateDonorDTO.cs",
+              "RelativeDocumentMoniker": "FoodShareNet\\DTO\\Donor\\CreateDonorDTO.cs",
+              "ToolTip": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet\\DTO\\Donor\\CreateDonorDTO.cs",
+              "RelativeToolTip": "FoodShareNet\\DTO\\Donor\\CreateDonorDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T00:29:02.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet\\Program.cs",
+              "RelativeDocumentMoniker": "FoodShareNet\\Program.cs",
+              "ToolTip": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet\\Program.cs",
+              "RelativeToolTip": "FoodShareNet\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T00:02:13.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet.Application\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "FoodShareNet.Application\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet.Application\\Services\\OrderService.cs",
+              "RelativeToolTip": "FoodShareNet.Application\\Services\\OrderService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAIAwwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T23:51:41.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DonationController.cs",
+              "DocumentMoniker": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet\\Controllers\\DonationController.cs",
+              "RelativeDocumentMoniker": "FoodShareNet\\Controllers\\DonationController.cs",
+              "ToolTip": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet\\Controllers\\DonationController.cs",
+              "RelativeToolTip": "FoodShareNet\\Controllers\\DonationController.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAewGQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T23:18:45.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BeneficiaryController.cs",
+              "DocumentMoniker": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet\\Controllers\\BeneficiaryController.cs",
+              "RelativeDocumentMoniker": "FoodShareNet\\Controllers\\BeneficiaryController.cs",
+              "ToolTip": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet\\Controllers\\BeneficiaryController.cs",
+              "RelativeToolTip": "FoodShareNet\\Controllers\\BeneficiaryController.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAowDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T23:18:23.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DonorController.cs",
+              "DocumentMoniker": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet\\Controllers\\DonorController.cs",
+              "RelativeDocumentMoniker": "FoodShareNet\\Controllers\\DonorController.cs",
+              "ToolTip": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet\\Controllers\\DonorController.cs",
+              "RelativeToolTip": "FoodShareNet\\Controllers\\DonorController.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAD4v4sAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T22:55:54.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "FoodShareNet.Application\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "FoodShareNet.Application\\Services\\ProductService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowBUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T22:49:11.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet.Application\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "FoodShareNet.Application\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet.Application\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "FoodShareNet.Application\\Interfaces\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T22:43:55.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "FoodShareNet\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "FoodShareNet\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T22:38:31.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Donor.cs",
+              "DocumentMoniker": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet.Domain\\Entities\\Donor.cs",
+              "RelativeDocumentMoniker": "FoodShareNet.Domain\\Entities\\Donor.cs",
+              "ToolTip": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet.Domain\\Entities\\Donor.cs",
+              "RelativeToolTip": "FoodShareNet.Domain\\Entities\\Donor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T22:28:52.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DonationStatus.cs",
+              "DocumentMoniker": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet.Domain\\Entities\\DonationStatus.cs",
+              "RelativeDocumentMoniker": "FoodShareNet.Domain\\Entities\\DonationStatus.cs",
+              "ToolTip": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet.Domain\\Entities\\DonationStatus.cs",
+              "RelativeToolTip": "FoodShareNet.Domain\\Entities\\DonationStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T22:28:42.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet.Domain\\Entities\\City.cs",
+              "RelativeDocumentMoniker": "FoodShareNet.Domain\\Entities\\City.cs",
+              "ToolTip": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet.Domain\\Entities\\City.cs",
+              "RelativeToolTip": "FoodShareNet.Domain\\Entities\\City.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T22:28:36.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Beneficiary.cs",
+              "DocumentMoniker": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet.Domain\\Entities\\Beneficiary.cs",
+              "RelativeDocumentMoniker": "FoodShareNet.Domain\\Entities\\Beneficiary.cs",
+              "ToolTip": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet.Domain\\Entities\\Beneficiary.cs",
+              "RelativeToolTip": "FoodShareNet.Domain\\Entities\\Beneficiary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T22:28:17.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DonationDetailDTO.cs",
+              "DocumentMoniker": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet\\DTO\\Donation\\DonationDetailDTO.cs",
+              "RelativeDocumentMoniker": "FoodShareNet\\DTO\\Donation\\DonationDetailDTO.cs",
+              "ToolTip": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet\\DTO\\Donation\\DonationDetailDTO.cs",
+              "RelativeToolTip": "FoodShareNet\\DTO\\Donation\\DonationDetailDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T22:26:15.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DonationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet\\DTO\\Donation\\DonationDTO.cs",
+              "RelativeDocumentMoniker": "FoodShareNet\\DTO\\Donation\\DonationDTO.cs",
+              "ToolTip": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet\\DTO\\Donation\\DonationDTO.cs",
+              "RelativeToolTip": "FoodShareNet\\DTO\\Donation\\DonationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T22:23:16.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Donation.cs",
+              "DocumentMoniker": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet.Domain\\Entities\\Donation.cs",
+              "RelativeDocumentMoniker": "FoodShareNet.Domain\\Entities\\Donation.cs",
+              "ToolTip": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet.Domain\\Entities\\Donation.cs",
+              "RelativeToolTip": "FoodShareNet.Domain\\Entities\\Donation.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T22:19:49.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateDonationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet\\DTO\\Donation\\CreateDonationDTO.cs",
+              "RelativeDocumentMoniker": "FoodShareNet\\DTO\\Donation\\CreateDonationDTO.cs",
+              "ToolTip": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet\\DTO\\Donation\\CreateDonationDTO.cs",
+              "RelativeToolTip": "FoodShareNet\\DTO\\Donation\\CreateDonationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T22:18:53.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "dbo.DonationStatuses [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/FoodShareDB/True/SqlTable/dbo.DonationStatuses.sql",
+              "ToolTip": "dbo.DonationStatuses [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-08T22:16:54.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "dbo.Products [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/FoodShareDB/True/SqlTable/dbo.Products.sql",
+              "ToolTip": "dbo.Products [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-08T22:16:29.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "dbo.Donations [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/FoodShareDB/True/SqlTable/dbo.Donations.sql",
+              "ToolTip": "dbo.Donations [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-08T22:02:12.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ICourierService.cs",
+              "DocumentMoniker": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet.Application\\Interfaces\\ICourierService.cs",
+              "RelativeDocumentMoniker": "FoodShareNet.Application\\Interfaces\\ICourierService.cs",
+              "ToolTip": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet.Application\\Interfaces\\ICourierService.cs",
+              "RelativeToolTip": "FoodShareNet.Application\\Interfaces\\ICourierService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:13:25.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DOnationStatus.cs",
+              "DocumentMoniker": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet.Domain\\Enums\\DOnationStatus.cs",
+              "RelativeDocumentMoniker": "FoodShareNet.Domain\\Enums\\DOnationStatus.cs",
+              "ToolTip": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet.Domain\\Enums\\DOnationStatus.cs",
+              "RelativeToolTip": "FoodShareNet.Domain\\Enums\\DOnationStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T15:40:18.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet\\DTO\\Order\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "FoodShareNet\\DTO\\Order\\OrderDTO.cs",
+              "ToolTip": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet\\DTO\\Order\\OrderDTO.cs",
+              "RelativeToolTip": "FoodShareNet\\DTO\\Order\\OrderDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T14:05:41.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet.Application\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "FoodShareNet.Application\\Interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet.Application\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "FoodShareNet.Application\\Interfaces\\IOrderService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAApwAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:46:59.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FoodShareNet.Repository.csproj",
+              "DocumentMoniker": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet.Repository\\FoodShareNet.Repository.csproj",
+              "RelativeDocumentMoniker": "FoodShareNet.Repository\\FoodShareNet.Repository.csproj",
+              "ToolTip": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet.Repository\\FoodShareNet.Repository.csproj",
+              "RelativeToolTip": "FoodShareNet.Repository\\FoodShareNet.Repository.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-25T13:40:13.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet\\appsettings.json",
+              "RelativeDocumentMoniker": "FoodShareNet\\appsettings.json",
+              "ToolTip": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet\\appsettings.json",
+              "RelativeToolTip": "FoodShareNet\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-24T21:58:22.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "FoodShareNet\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet\\appsettings.Development.json",
+              "RelativeToolTip": "FoodShareNet\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-24T21:49:22.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FoodShareNETDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet.Repository\\Data\\FoodShareNETDbContext.cs",
+              "RelativeDocumentMoniker": "FoodShareNet.Repository\\Data\\FoodShareNETDbContext.cs",
+              "ToolTip": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet.Repository\\Data\\FoodShareNETDbContext.cs",
+              "RelativeToolTip": "FoodShareNet.Repository\\Data\\FoodShareNETDbContext.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA9wBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T21:03:09.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "FoodShareNet\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "FoodShareNet\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAkwCMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T18:56:05.716Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

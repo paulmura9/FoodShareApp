@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FoodShareNetAPI", "FoodShareNet\FoodShareNetAPI.csproj", "{712773BD-C151-4A7A-8811-C658D61F131D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FoodShareNet.Domain", "FoodShareNet.Domain\FoodShareNet.Domain.csproj", "{8177819A-2F39-4C24-94FF-3E03DA2AC2E3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FoodShareNet.Repository", "FoodShareNet.Repository\FoodShareNet.Repository.csproj", "{B1F47C83-51BD-4C48-911D-477CCA069075}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FoodShareNet.Application", "FoodShareNet.Application\FoodShareNet.Application.csproj", "{EFE0877E-7008-4A2C-9606-AE076829A585}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodShareNet.UnitTests", "FoodShareNet.UnitTests\FoodShareNet.UnitTests.csproj", "{4E1BB349-7072-4DB8-AD92-A0DF46D6A1BA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unit", "Unit\Unit.csproj", "{152F4C32-B8F8-4445-9C82-CA9D428506DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{712773BD-C151-4A7A-8811-C658D61F131D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{712773BD-C151-4A7A-8811-C658D61F131D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{712773BD-C151-4A7A-8811-C658D61F131D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{712773BD-C151-4A7A-8811-C658D61F131D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8177819A-2F39-4C24-94FF-3E03DA2AC2E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8177819A-2F39-4C24-94FF-3E03DA2AC2E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8177819A-2F39-4C24-94FF-3E03DA2AC2E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8177819A-2F39-4C24-94FF-3E03DA2AC2E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1F47C83-51BD-4C48-911D-477CCA069075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1F47C83-51BD-4C48-911D-477CCA069075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1F47C83-51BD-4C48-911D-477CCA069075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1F47C83-51BD-4C48-911D-477CCA069075}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFE0877E-7008-4A2C-9606-AE076829A585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFE0877E-7008-4A2C-9606-AE076829A585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFE0877E-7008-4A2C-9606-AE076829A585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFE0877E-7008-4A2C-9606-AE076829A585}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E1BB349-7072-4DB8-AD92-A0DF46D6A1BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E1BB349-7072-4DB8-AD92-A0DF46D6A1BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E1BB349-7072-4DB8-AD92-A0DF46D6A1BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E1BB349-7072-4DB8-AD92-A0DF46D6A1BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{152F4C32-B8F8-4445-9C82-CA9D428506DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{152F4C32-B8F8-4445-9C82-CA9D428506DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{152F4C32-B8F8-4445-9C82-CA9D428506DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{152F4C32-B8F8-4445-9C82-CA9D428506DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43673BBE-70BB-4CF6-989F-1E9D626645DB}
+	EndGlobalSection
+EndGlobal

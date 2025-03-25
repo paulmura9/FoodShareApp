@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "txqo0crvVWw8Bv8KevBTrB+MhNtVQGzfCExk8kRltNfpv3IhlOHzeHE8D2b5wydxx4LlsrXbNjTFPjVaSyRYmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\paulm\\Desktop\\Cognizant Liga AC LABS 2024\\FoodShareNet\\FoodShareNet.Domain\\FoodShareNet.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paulm\\.nuget\\packages\\microsoft.codecoverage\\17.10.0\\microsoft.codecoverage.17.10.0.nupkg.sha512",
+    "C:\\Users\\paulm\\.nuget\\packages\\microsoft.net.test.sdk\\17.10.0\\microsoft.net.test.sdk.17.10.0.nupkg.sha512",
+    "C:\\Users\\paulm\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.10.0\\microsoft.testplatform.objectmodel.17.10.0.nupkg.sha512",
+    "C:\\Users\\paulm\\.nuget\\packages\\microsoft.testplatform.testhost\\17.10.0\\microsoft.testplatform.testhost.17.10.0.nupkg.sha512",
+    "C:\\Users\\paulm\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\paulm\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\paulm\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\paulm\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
